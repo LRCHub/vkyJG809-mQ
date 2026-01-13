@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Missing Link",
+  "base_artist": "MindaRyn",
+  "createdAt": "2026-01-13T22:34:33.461686Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "B-Boys & Flygirls (Missing Link remix)",
+      "artist": "Bomfunk MC’s",
+      "has_synced": false,
+      "path": "select/01_B-Boys_&_Flygirls_(Missing_Link_remix)_Bomfunk_MC’s.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "B-Boys 'n' Fly Girls (Missing Link Remix)",
+      "artist": "Bomfunk MC's",
+      "has_synced": false,
+      "path": "select/02_B-Boys_'n'_Fly_Girls_(Missing_Link_Remix)_Bomfunk_MC's.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Freestyler (Missing Link remix)",
+      "artist": "Bomfunk MC’s",
+      "has_synced": false,
+      "path": "select/03_Freestyler_(Missing_Link_remix)_Bomfunk_MC’s.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Freestyler (Missing Link Remix)",
+      "artist": "Bomfunk MC's",
+      "has_synced": false,
+      "path": "select/04_Freestyler_(Missing_Link_Remix)_Bomfunk_MC's.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rocking, Just to Make Ya Move (Missing Link 2Step mix)",
+      "artist": "Bomfunk MC’s",
+      "has_synced": false,
+      "path": "select/05_Rocking,_Just_to_Make_Ya_Move_(Missing_Link_2Step_mix)_Bomfunk_MC’s.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rockin, Just Make Ya Move (Missing Link 2step Mix)",
+      "artist": "Bomfunk MC's",
+      "has_synced": false,
+      "path": "select/06_Rockin,_Just_Make_Ya_Move_(Missing_Link_2step_Mix)_Bomfunk_MC's.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Missing Link",
+      "artist": "CURVE",
+      "has_synced": false,
+      "path": "select/07_Missing_Link_CURVE.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Missing Link (Screaming Bird mix)",
+      "artist": "CURVE",
+      "has_synced": false,
+      "path": "select/08_Missing_Link_(Screaming_Bird_mix)_CURVE.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Missing Link Screaming Bird Mix",
+      "artist": "Curve",
+      "has_synced": false,
+      "path": "select/09_Missing_Link_Screaming_Bird_Mix_Curve.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Missing Link",
+      "artist": "The Hives",
+      "has_synced": true,
+      "path": "select/10_Missing_Link_The_Hives.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Missing Link (Remastered)",
+      "artist": "Rage",
+      "has_synced": false,
+      "path": "select/11_The_Missing_Link_(Remastered)_Rage.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Missing Link",
+      "artist": "Curve",
+      "has_synced": true,
+      "path": "select/12_Missing_Link_Curve.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Missing Link",
+      "artist": "Rage",
+      "has_synced": true,
+      "path": "select/13_The_Missing_Link_Rage.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Missing Link",
+      "artist": "Novels",
+      "has_synced": true,
+      "path": "select/14_Missing_Link_Novels.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Missing Link",
+      "artist": "Napalm Death",
+      "has_synced": false,
+      "path": "select/15_The_Missing_Link_Napalm_Death.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Missing Link",
+      "artist": "Machinae Supremacy",
+      "has_synced": true,
+      "path": "select/16_Missing_Link_Machinae_Supremacy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Missing Link",
+      "artist": "MindaRyn feat. ASH",
+      "has_synced": false,
+      "path": "select/pl_01_Missing_Link_MindaRyn_feat._ASH.txt"
+    }
+  ]
+}
